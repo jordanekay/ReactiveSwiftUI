@@ -1,0 +1,15 @@
+{
+  "originHash" : "93529e93694c299f46d73c7112c08ef4305eb230dda288dbbac0cd996993da72",
+  "pins" : [
+    {
+      "identity" : "reactiveswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveCocoa/ReactiveSwift.git",
+      "state" : {
+        "revision" : "c5eecb5374ac342e22d46abd333e4c8c698c93cc",
+        "version" : "7.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
